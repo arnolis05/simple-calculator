@@ -10,7 +10,7 @@ A simple calculator is a simple project using the Php programming language using
 ## Requirements
 * [Php=> 5.3.7](#Php-=>-5.3.7)
 * [Git Extension](#Git-Extension)
-## Installation
+## Installation & Usage
 <h5>HTPPS</h5>
 
 ```
@@ -28,3 +28,20 @@ git@github.com:arnolis05/simple-calculator.git
 ```
 gh repo clone arnolis05/simple-calculator
 ```
+
+## Directory Structure
+
+```
+|___public_html
+|   |___index.php
+|___README.md
+```
+
+## Support
+
+The following companies, organizations, and individuals support Fission's ongoing maintenance and development. If you are using/contributing to Fission, we would be happy to list you here, please raise a Pull request.
+
+<p>
+    <a href="https://bpptik-lms.kominfo.go.id/"><img src="https://kominfo.go.id/favicon/favicon.ico" alt="Bpptik Kominfo" height="70"></a>
+    <a href="https://github.com/"><img src="https://github.com/fluidicon.png" alt="GitHub" height="70" left="10"></a>
+</p>
