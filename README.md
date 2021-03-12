@@ -16,3 +16,15 @@ A simple calculator is a simple project using the Php programming language using
 ```
 https://github.com/arnolis05/simple-calculator.git
 ```
+
+<h5>SSH</h5>
+
+```
+git@github.com:arnolis05/simple-calculator.git
+```
+
+<h5>GitHub CLI</h5>
+
+```
+gh repo clone arnolis05/simple-calculator
+```
