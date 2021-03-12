@@ -11,11 +11,7 @@ A simple calculator is a simple project using the Php programming language using
 * [Php=> 5.3.7](#Php-=>-5.3.7)
 * [Git Extension](#Git-Extension)
 ## Installation
+<h5>HTPPS</h5>
 ```
-#HTTPS
   https://github.com/arnolis05/simple-calculator.git
-#SSH
-  git@github.com:arnolis05/simple-calculator.git
-#GitHub CLI
-  gh repo clone arnolis05/simple-calculator
 ```
